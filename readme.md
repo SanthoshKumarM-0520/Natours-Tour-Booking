@@ -3,6 +3,7 @@ Natours is a full-stack tour booking web application designed to provide a seaml
 
  ### Key Features
 ✅ User Authentication & Authorization – Secure login, signup, and role-based access (admin, users).
+
 ✅ Tour Management – Users can browse available tours with details like descriptions, difficulty levels, and locations.
 ✅ Review & Ratings – Users can leave reviews and ratings for tours they have attended.
 ✅ Geolocation & Maps – Integrated Mapbox API to display tour locations interactively.
