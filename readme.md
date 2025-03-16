@@ -31,6 +31,6 @@ Natours is a full-stack tour booking web application designed to provide a seaml
 - Express Rate Limiter & Helmet – Security enhancements for request rate limiting and HTTP headers protection
 
 🔹 Project Architecture
--1️⃣ Model (M) – Defines the schema and data structure in MongoDB using Mongoose.
--2️⃣ View (V) – Uses Pug templates for rendering dynamic UI.
--3️⃣ Controller (C) – Handles business logic, authentication, and database interactions
+- 1️⃣ Model (M) – Defines the schema and data structure in MongoDB using Mongoose.
+- 2️⃣ View (V) – Uses Pug templates for rendering dynamic UI.
+- 3️⃣ Controller (C) – Handles business logic, authentication, and database interactions
