@@ -16,10 +16,11 @@ Natours is a full-stack tour booking web application designed to provide a seaml
 
 ### Technologies Used
 🟢 Backend:
-Node.js – JavaScript runtime for server-side development.
-Express.js – Web framework for handling routes and middleware.
-MongoDB – NoSQL database for storing user and tour data.
-Mongoose – ODM library for managing MongoDB schemas.
+
+- Node.js – JavaScript runtime for server-side development.
+- Express.js – Web framework for handling routes and middleware.
+- MongoDB – NoSQL database for storing user and tour data.
+- Mongoose – ODM library for managing MongoDB schemas.
 
 🔵 Frontend:
 Pug (Templating Engine) – Used for rendering dynamic HTML pages.
